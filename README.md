@@ -1,5 +1,5 @@
 # Py_Snake
-Projet Python effectuer en Terminale (2024) en spécialité NSI.
+Projet Python effectué en Terminale (2024) en spécialité NSI.
 
 ---
 
