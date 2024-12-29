@@ -1,7 +1,7 @@
 # Py_Snake
 Projet Python effectué en Terminale (2024) en spécialité NSI avec le module Pyxel.
 
-Lien pour jouer : www.pyxelstudio.net/3ml4ke8z
+[Clique ici pour jouer !](www.pyxelstudio.net/3ml4ke8z)
 
 ---
 
